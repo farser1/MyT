@@ -367,12 +367,11 @@ p {
     background-position: 50% 97%;
   }
   .how-it-works {
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
     background-size: cover;
   }
   .why-join {
     background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
-    background-size: auto;
+    background-size: cover;
   }
   .content {
     margin-top: 30px;
@@ -428,15 +427,16 @@ p {
   }
   .jumbo {
     padding-bottom: 0px;
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+    background-image: url(../images/Runner_479.png);
     background-position: 43% 50%;
     opacity: 1;
   }
   .how-it-works {
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
+    background-image: url(../images/Bike_479.jpg);
   }
   .why-join {
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+    background-image: url(../images/Sunset_runner_479.jpg);
+    background-size: cover;
   }
   .content {
     margin: 20px 10px 15px;
