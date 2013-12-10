@@ -7,7 +7,9 @@
         <br>Or tweet us @myteamactive</p>
     </div>
     <footer class="w-container footer">
-      <div class="content"></div>
+      <div class="content center">
+&copy;<?php echo date('Y'); ?> MyTeam.
+      </div>
     </footer>
   </div>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

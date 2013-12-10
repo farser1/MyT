@@ -5,7 +5,7 @@
       </div>
       <div class="w-col w-col-6">
         <div class="nav-bar">
-          <a class="nav-link" href="#"></a><a class="nav-link" href="index.html">Home</a><a class="nav-link" href="#">   |   Why MyTeam?</a><a class="nav-link" href="#">   |   FAQs  </a>
+          <a class="nav-link" href="index.php">Home</a><a class="nav-link" href="index.php#why-join">   |   Why MyTeam?</a><a class="nav-link" href="faqs.php">   |   FAQs  </a>
         </div>
       </div>
     </div>

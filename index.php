@@ -149,7 +149,7 @@ include('inc/head.php'); ?>
         <p>Select your goal to find our more and book your place.</p>
         <div class="w-row goal-list-row">
           <div class="w-col w-col-6 center">
-            <a class="w-inline-block" href="goal-weight-loss.html">
+            <a class="w-inline-block" href="goal-weight-loss.php">
               <div class="goal-title">Weight Loss</div>
               <img src="images/MyTeam_Weight_1.jpg" alt="MyTeam_Weight_1.jpg">
               <div class="learn-more"><u>Learn more</u>
@@ -157,7 +157,7 @@ include('inc/head.php'); ?>
             </a>
           </div>
           <div class="w-col w-col-6 center">
-            <a class="w-inline-block" href="#">
+            <a class="w-inline-block" href="goal-strength-size.php">
               <div class="goal-title">Strength &amp; Size</div>
               <img src="images/MyTeam_Muscle_1.jpg" alt="MyTeam_Muscle_1.jpg">
               <div class="learn-more"><u>Learn more</u>
@@ -167,7 +167,7 @@ include('inc/head.php'); ?>
         </div>
         <div class="w-row goal-list-row">
           <div class="w-col w-col-6 center">
-            <a class="w-inline-block" href="#">
+            <a class="w-inline-block" href="goal-get-toned.php">
               <img src="images/MyTeam_Tone_1.jpg" alt="MyTeam_Tone_1.jpg">
               <div class="goal-title center">Get Toned</div>
               <div class="learn-more"><u>Learn more</u>
@@ -175,7 +175,7 @@ include('inc/head.php'); ?>
             </a>
           </div>
           <div class="w-col w-col-6 center">
-            <a class="w-inline-block" href="#">
+            <a class="w-inline-block" href="goal-couch25k.php">
               <div class="goal-title">Couch to 5k</div>
               <img src="images/MyTeam_Run_1.jpg" alt="MyTeam_Run_1.jpg">
               <div class="learn-more"><u>Learn more</u>
