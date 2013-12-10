@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<!-- This site was created in Webflow. http://www.webflow.com-->
-<!-- Last Published: Tue Dec 10 2013 12:47:52 GMT+0000 (UTC) -->
-<html data-wf-site="52a58a929f2a501f5b0003d4">
-<head>
-  <meta charset="utf-8">
-  <title>My Team</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="css/webflow.css">
-  <link rel="stylesheet" type="text/css" href="css/myteam.webflow.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-  <script>
-    WebFont.load({
-      google: {
-        families: ["Open Sans:300,400,600,700,800", "Ubuntu:300,400,500,700"]
-      }
-    });
-  </script>
-  <link rel="icon" type="image/x-icon" href="https://y7v4p6k4.ssl.hwcdn.net/placeholder/favicon.ico">
-</head>
+<?php 
+$pageTitle="Size and Strength course";
+include('inc/head.php'); ?>
 <body>
   <div class="w-container jumbo">
     <div class="w-container mobile-overlay">
@@ -204,21 +186,7 @@
       </div>
     </div>
   </div>
-  <div class="w-container get-in-touch">
-    <div class="content">
-      <h2 class="get-in-touch">Get in touch</h2>
-      <p class="get-in-touch">Have a question? Can't find the program for you? Or just want to say hi?
-        <br>We'd love to hear from you!
-        <br>
-        <br>You can reach us at hello@myteamactive.com
-        <br>
-        <br>Or, tweet us @myteamactive</p>
-    </div>
-  </div>
-  <footer class="w-container footer">
-    <div class="content"></div>
-  </footer>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script type="text/javascript" src="js/webflow.js"></script>
+  <?php 
+include('inc/footer.php'); ?>
 </body>
 </html>
