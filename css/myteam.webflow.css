@@ -363,6 +363,7 @@ p {
     font-size: 16px;
   }
   .jumbo {
+    padding-bottom: 0px;
     background-image: url(../images/Runner_479.png);
     background-position: 50% 97%;
   }
@@ -405,6 +406,9 @@ p {
   }
   .center {
     margin-bottom: 0px;
+  }
+  .mobile-overlay {
+    background-color: rgba(255, 255, 255, 0.36);
   }
   .footer {
     background-image: -webkit-linear-gradient(bottom, #262626, #707173 73%);
