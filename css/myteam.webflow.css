@@ -214,6 +214,15 @@ p {
 }
 .goal-bg.grey {
   background-color: #445454;
+  color: white;
+}
+.goal-bg.green {
+  background-color: #009fa5;
+  color: white;
+}
+.goal-bg.yellow {
+  background-color: #f39501;
+  color: white;
 }
 .goal-list {
   padding-bottom: 20px;
@@ -328,6 +337,9 @@ p {
   .header {
     padding-top: 0px;
     padding-bottom: 0px;
+    background-image: -webkit-linear-gradient(#919191, #707173 89%);
+    background-image: -o-linear-gradient(#919191, #707173 89%);
+    background-image: linear-gradient(#919191, #707173 89%);
   }
   .goal-image {
     padding-bottom: 316px;
@@ -371,6 +383,11 @@ p {
   }
   .logo {
     text-align: left;
+  }
+  .header {
+    background-image: -webkit-linear-gradient(#919191, #707173 89%);
+    background-image: -o-linear-gradient(#919191, #707173 89%);
+    background-image: linear-gradient(#919191, #707173 89%);
   }
   .get-in-touch {
     background-color: #6f7073;
@@ -418,6 +435,9 @@ p {
   .how-it-works {
     background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
   }
+  .why-join {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+  }
   .content {
     margin: 20px 10px 15px;
     padding-right: 10px;
@@ -443,6 +463,9 @@ p {
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
+    background-image: -webkit-linear-gradient(#919191, #707173 89%);
+    background-image: -o-linear-gradient(#919191, #707173 89%);
+    background-image: linear-gradient(#919191, #707173 89%);
   }
   .goal-list-row {
     margin-left: 0px;

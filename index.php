@@ -1,5 +1,5 @@
 <?php 
-$pageTitle="Size and Strength course";
+$pageTitle="MyTeam - Reach your health and fitness goals";
 include('inc/head.php'); ?>
 <body>
   <div class="w-container jumbo">
@@ -79,7 +79,7 @@ include('inc/head.php'); ?>
   <div class="w-container no-picture">
     <div class="content goal-content">
       <div class="center">
-        <p>Scroll down to keep reading about the benefits of MyTeam, or, select your goal.</p><a class="button" href="#choose-your-goal">Choose your goal</a>
+        <p>Scroll down to keep reading about the benefits of MyTeam, or, choose a goal to find out about our available programs.</p><a class="button" href="#choose-your-goal">Choose your goal</a>
       </div>
     </div>
   </div>

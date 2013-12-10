@@ -30,7 +30,7 @@ include('inc/nav.php'); ?>
           <p class="program-page">Your personalised 3 month course will help you lose weight, change unhealthy behaviours and set you on a path toward a lifetime of healthy living.</p>
           <h4 class="program-page">Who is it for?</h4>
           <p class="program-page">This course is designed for overweight men and women.</p>
-          <h4 class="program-page">Requiremnets</h4>
+          <h4 class="program-page">Requirements</h4>
           <p class="program-page">Gym access is not required for this program.</p>
           <h4 class="program-page">What is included?</h4>
           <p class="program-page">Initial phone consultation
