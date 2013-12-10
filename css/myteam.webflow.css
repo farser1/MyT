@@ -1,0 +1,477 @@
+body {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  background-color: #d9dadb;
+  font-family:'Open Sans', sans-serif;
+  color: #727176;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  margin: 10px 0px;
+  color: #727176;
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 300;
+}
+h2 {
+  margin: 10px 0px 25px;
+  opacity: 1;
+  color: #727176;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 400;
+  text-align: center;
+}
+h3 {
+  margin: 0px 0px 5px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+}
+h4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  margin-top: -10px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  padding: 15px 20px;
+  background-color: #bcbdbf;
+  color: white;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  text-decoration: none;
+}
+.button.blue {
+  background-color: #768eba;
+}
+.button.gray {
+  background-color: #777b7c;
+}
+.button.nav {
+  padding: 10px 15px;
+}
+.button.signupweightloss {
+  background-color: #28669f;
+}
+.jumbo {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 150px;
+  background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+  background-position: 50% 97%;
+  background-size: 940px;
+  background-repeat: repeat repeat;
+  background-attachment: scroll;
+}
+.no-picture {
+  background-color: white;
+}
+.how-it-works {
+  background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
+  background-size: 940px;
+  background-repeat: no-repeat repeat;
+}
+.overlay {
+  margin: 0px;
+  padding: 20px 80px 20px 50px;
+  background-color: rgba(255, 255, 255, 0.72);
+  opacity: 0.7;
+}
+.why-join {
+  background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+  background-size: 940px;
+}
+.get-in-touch {
+  background-color: #707173;
+}
+.content {
+  margin: 60px 75px;
+  opacity: 1;
+}
+.content.goal-content {
+  margin-top: 40px;
+  background-color: white;
+}
+.p1 {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #727176;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+.nav-bar {
+  margin-top: 40px;
+  color: white;
+  text-align: center;
+}
+.sub {
+  margin-bottom: 39px;
+  color: #727176;
+  font-size: 15px;
+  font-weight: 300;
+}
+.sub.white {
+  color: white;
+}
+.callout {
+  width: auto;
+}
+.logo {
+  margin-bottom: 30px;
+}
+.header {
+  margin-bottom: 1px;
+  padding: 0px 75px;
+  background-color: #707173;
+  background-image: -webkit-linear-gradient(#919191, #707173 89%);
+  background-image: -o-linear-gradient(#919191, #707173 89%);
+  background-image: linear-gradient(#919191, #707173 89%);
+}
+.get-in-touch {
+  color: white;
+  font-weight: 300;
+}
+.list {
+  font-size: 13px;
+}
+.list-row {
+  margin-bottom: 20px;
+}
+.list-row.first-row {
+  margin-top: 25px;
+}
+.graphic {
+  text-align: center;
+}
+.goal-list-row {
+  margin-bottom: 0px;
+  margin-left: -10px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+.goal-image {
+  padding-top: 30px;
+  padding-bottom: 276px;
+  background-image: url(../images/MyTeam%20Home%20Page%20S2-06.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.goal-image.muscle {
+  padding-bottom: 256px;
+  background-image: url(../images/MyTeam%20Home%20Page%20S2-08.png);
+  background-position: 50% 50%;
+}
+.goal-title {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+  float: none;
+  color: white;
+  font-size: 44px;
+  line-height: 46px;
+  font-weight: 300;
+}
+.goal-bg {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.goal-bg.blue {
+  margin-bottom: 0px;
+  background-color: #28669f;
+  color: white;
+}
+.goal-bg.blue.stripe {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.goal-bg.grey {
+  background-color: #445454;
+}
+.goal-list {
+  padding-bottom: 20px;
+  border-bottom: 2px solid white;
+  color: white;
+  font-size: 15px;
+}
+.goal-descriptor {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 15px;
+}
+.goal-cta {
+  text-align: center;
+}
+.list-image {
+  width: 85px;
+  height: auto;
+}
+.nav-link {
+  margin-right: 0px;
+  border-radius: 4px;
+  color: white;
+  font-weight: 300;
+  text-decoration: none;
+  text-transform: none;
+}
+.program-page {
+  background-color: white;
+  text-align: left;
+}
+.center {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.product-bg {
+  margin-bottom: 108px;
+  padding-bottom: 0px;
+}
+.product-bg.weightloss {
+  margin-bottom: 0px;
+  background-image: url(../images/WeightLossGumroadCover.png);
+  background-size: cover;
+}
+.goal-cell-left {
+  padding-right: 20px;
+  background-image: none;
+}
+.goal-cell-left.weightloss {
+  background-image: url(../images/MyTeam_Weight_1.jpg);
+  background-size: cover;
+}
+.goal-cell-left.couch25k {
+  background-image: url(../images/example-bg.png);
+}
+.goal-cell-right {
+  padding-left: 0px;
+}
+.goal-button-bg {
+  background-image: url(../images/MyTeam_Weight_1.jpg);
+  background-size: 250px;
+}
+.footer {
+  background-color: #3d3d3d;
+  background-image: -webkit-linear-gradient(bottom, #262626, #707173);
+  background-image: -o-linear-gradient(bottom, #262626, #707173);
+  background-image: linear-gradient(to top, #262626, #707173);
+}
+.learn-more {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-bottom: 5px;
+  color: white;
+  font-size: 14px;
+}
+.white-logo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.page {
+  margin-bottom: 40px;
+}
+@media (max-width: 991px) {
+  body {
+    padding-bottom: 0px;
+  }
+  .jumbo {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+    background-position: 50% 97%;
+    background-size: cover;
+  }
+  .how-it-works {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
+  }
+  .why-join {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+  }
+  .content {
+    margin: 40px 20px;
+    padding-right: 30px;
+    padding-left: 25px;
+  }
+  .logo {
+    margin-bottom: 10px;
+    padding-top: 0px;
+  }
+  .header {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .goal-image {
+    padding-bottom: 316px;
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-06.png);
+    background-position: 45% 50%;
+  }
+  .goal-image.muscle {
+    margin-bottom: 0px;
+    padding-bottom: 230px;
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-08.png);
+    background-position: 50% 50%;
+  }
+}
+@media (max-width: 767px) {
+  h3 {
+    text-align: center;
+  }
+  .button.nav {
+    margin-bottom: 5px;
+    padding: 7px 13px;
+    font-size: 16px;
+  }
+  .jumbo {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+    background-position: 50% 97%;
+  }
+  .how-it-works {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
+    background-size: cover;
+  }
+  .why-join {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+    background-size: auto;
+  }
+  .content {
+    margin-top: 30px;
+  }
+  .nav-bar {
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  .logo {
+    text-align: left;
+  }
+  .get-in-touch {
+    background-color: #6f7073;
+  }
+  .list {
+    text-align: center;
+  }
+  .goal-image {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-06.png);
+    background-position: 50% 50%;
+  }
+  .goal-image.muscle {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-08.png);
+    background-position: 50% 50%;
+  }
+  .center {
+    margin-bottom: 0px;
+  }
+  .footer {
+    background-image: -webkit-linear-gradient(bottom, #262626, #707173 73%);
+    background-image: -o-linear-gradient(bottom, #262626, #707173 73%);
+    background-image: linear-gradient(to top, #262626, #707173 73%);
+  }
+}
+@media (max-width: 479px) {
+  h1 {
+    font-size: 37px;
+    text-align: center;
+  }
+  h2 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+  }
+  .button.nav {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+  .jumbo {
+    padding-bottom: 0px;
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+    background-position: 43% 50%;
+    opacity: 1;
+  }
+  .how-it-works {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-05.jpg);
+  }
+  .content {
+    margin: 20px 10px 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+  }
+  .content.goal-content {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .nav-bar {
+    margin-top: 0px;
+  }
+  .sub {
+    margin-bottom: 15px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .logo {
+    margin-bottom: 0px;
+  }
+  .header {
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+  .goal-list-row {
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .goal-image {
+    padding-top: 10px;
+    padding-bottom: 170px;
+    padding-left: 10px;
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-06.png);
+    background-position: 50% 50%;
+  }
+  .goal-image.muscle {
+    background-image: url(../images/MyTeam%20Home%20Page%20S2-08.png);
+    background-position: 50% 50%;
+  }
+  .goal-title {
+    font-size: 37px;
+  }
+  .goal-bg.blue.stripe {
+    padding-top: 5px;
+  }
+  .list-image {
+    -webkit-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+  }
+  .mobile-overlay {
+    background-color: rgba(255, 255, 255, 0.36);
+  }
+}
