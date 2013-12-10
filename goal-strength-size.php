@@ -53,7 +53,7 @@ include('inc/nav.php'); ?>
           <p class="program-page">This program will help you level up in muscle mass.</p>
           <h4 class="program-page">Who is it for?</h4>
           <p class="program-page">This course is designed for beginner and intermediate men.</p>
-          <h4 class="program-page">Requiremnets</h4>
+          <h4 class="program-page">Requirements</h4>
           <p class="program-page">Gym access is required for this program.</p>
           <h4 class="program-page">What is included?</h4>
           <p class="program-page">Initial phone consultation
