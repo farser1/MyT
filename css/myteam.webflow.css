@@ -363,14 +363,15 @@ p {
     font-size: 16px;
   }
   .jumbo {
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-02.png);
+    background-image: url(../images/Runner_479.png);
     background-position: 50% 97%;
   }
   .how-it-works {
+    background-image: url(../images/Bike_479.jpg);
     background-size: cover;
   }
   .why-join {
-    background-image: url(../images/MyTeam%20Home%20Page%20S2-21.jpg);
+    background-image: url(../images/Sunset_runner_479.jpg);
     background-size: cover;
   }
   .content {
