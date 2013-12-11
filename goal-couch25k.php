@@ -1,10 +1,10 @@
 <?php 
 $pageTitle="Couch to 5k course";
+$pageDesc="The MyTeam coached couch to 5k program"; 
 include('inc/head.php'); ?>
 <body>
   <?php 
 include('inc/nav.php'); ?>
- 
 <div class="w-container program-page" id="choose-your-goal">
     <div class="content page">
       <h2 class="page">Run 5k</h2>

@@ -1,5 +1,6 @@
 <?php 
 $pageTitle="Size and Strength course";
+$pageDesc="The MyTeam coached size and strength program"; 
 $section="presale";
 include('inc/head.php');
 ?>

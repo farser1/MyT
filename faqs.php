@@ -1,5 +1,6 @@
 <?php 
 $pageTitle="FAQs";
+$pageDesc="All the frequently asked questions about MyTeam."; 
 include('inc/head.php'); ?>
 <body>
   <?php 
@@ -19,7 +20,7 @@ include('inc/nav.php'); ?>
           Who is behind MyTeam?
         </h4>
           <p class="program-page">
-            MyTeam was started by John Sawers and Chris Baker. John has years of experience working at the largest social network for health in the UK, helping people with health problems get the support they need online. Chris is a designer, obsessed with the impact design can have on behavioural changed. They share a passion for living healthy lives and a desire to reduce the cost of access to quality information and training support. Together they have assembled a team of top quality coaches and experts to deliver this service. 
+            MyTeam was started by John Sawers and Chris Baker. John worked at the largest social network for health in the UK, helping people with health problems get the support they need online. Chris is a designer, obsessed with the impact design can have on behavioural change. They share a passion for living healthy lives and a desire to reduce the cost of access to quality information and training support. Together they have assembled a team of top quality coaches and experts to deliver this service. 
           </p>
         <h4 class="program-page">
           What makes MyTeam better than other health &amp; fitness programs?

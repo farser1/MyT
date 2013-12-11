@@ -1,5 +1,6 @@
 <?php 
-$pageTitle="MyTeam - Reach your health and fitness goals";
+$pageTitle="MyTeam";
+$pageDesc="Reach your health and fitness goals through goal based communities powered by real coaches."; 
 include('inc/head.php'); ?>
 <body>
   <div class="w-container jumbo">

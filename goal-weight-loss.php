@@ -1,5 +1,6 @@
 <?php 
 $pageTitle="Weight loss course";
+$pageDesc="The MyTeam coached weight loss program"; 
 include('inc/head.php'); ?>
 <body>
   <?php 
