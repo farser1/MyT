@@ -49,11 +49,11 @@ include('inc/nav.php'); ?>
         </div>
         <div class="w-col w-col-6 w-col-small-6 program-page">
           <h4 class="program-page">Summary</h4>
-          <p class="program-page">This course takes you on a journey from the couch to being able to comfortably run 5k or 3.1 miles.</p>
+          <p class="program-page">This course takes you on a journey from the couch to being able to comfortably run 5k (3.1 miles).</p>
           <h4 class="program-page">Who is it for?</h4>
           <p class="program-page">This course is designed for beginner runners. Men or women.</p>
-          <h4 class="program-page">requirements</h4>
-          <p class="program-page">Gym access is not required for this program.</p>
+          <h4 class="program-page">Requirements</h4>
+          <p class="program-page">Gym access is not required for this program. A pair of running shoes is.</p>
           <h4 class="program-page">What is included?</h4>
           <p class="program-page">Initial phone consultation
             <br>Unlimited community support
