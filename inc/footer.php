@@ -14,7 +14,8 @@
     </div>
     <footer class="w-container footer">
       <div class="content center">
-&copy;<?php echo date('Y'); ?> MyTeam.
+&copy;<?php echo date('Y'); ?> MyTeam   |   
+<a href="/privacy-policy.php" style="color: white;">Privacy policy</a>
       </div>
     </footer>
   </div>

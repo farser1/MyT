@@ -95,7 +95,7 @@ include('inc/head.php'); ?>
         </div>
         <div class="w-col w-col-9">
           <h3>Expert coaches</h3>
-          <div class="list">MyTeam’s coaches are highly qualified specialists in their field. In addition, we have a network of dieticians &amp; sport scientists who work with us to ensure all our programs are of the highest standards.</div>
+          <div class="list">In the age of apps, we believe in the value of a human connection. MyTeam’s coaches are highly qualified specialists in the fields of weight loss, muscle gain, cardiovascular development and nutrition.</div>
         </div>
       </div>
       <div class="w-row list-row">
