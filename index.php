@@ -36,7 +36,7 @@ include('inc/head.php'); ?>
         </div>
         <div class="w-col w-col-9">
           <h3>Choose your goal</h3>
-          <div class="list">Browse the groups (teams) available and choose the one that matches your goal. Each team has it's own private forum.</div>
+          <div class="list">Browse the groups (teams) available and choose the one that matches your goal. Each team has a private forum where teammates share struggles and victories and ask questions in a supportive environment.</div>
         </div>
       </div>
       <div class="w-row list-row">
@@ -104,7 +104,7 @@ include('inc/head.php'); ?>
         </div>
         <div class="w-col w-col-9">
           <h3>Teams - small group communities</h3>
-          <div class="list">A team consists of a small group of focused people pursuing the same goal, under the direction of their coach. Each team has a private forum where teammates share struggles and victories and ask questions in a supportive environment.</div>
+          <div class="list">A team consists of a small group of focused people pursuing the same goal, under the direction of their coach. These communities provide a tremendous amount of support and encouragement making your fitness journey less lonely.</div>
         </div>
       </div>
       <div class="w-row list-row">

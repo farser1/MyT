@@ -14,15 +14,38 @@ include('inc/nav.php'); ?>
           <div class="goal-bg blue">
             <h4>Start date</h4>
             <p>January 12, 2014</p>
-            <h4>Availability</h4>
-            <p>There are only 37 places left!</p>
             <h4>How much is it?</h4>
             <p>£29 per month (£87 in total)</p>
-            <div class="goal-cta">
-              <div class="w-embed w-script"><a class="button blue" data-shoplocket-product-token="7kjE7" href="https://www.shoplocket.com/products/7kjE7-weight-loss/buy">Book your place</a>
-                <script src='https://d1pocdzmde73mw.cloudfront.net/assets/widgets/embed.js' type='text/javascript'></script>
+            <h4>Sign up for pre-sale discount!</h4>
+            <div class="w-embed">
+              <!-- Begin MailChimp Signup Form -->
+              <div id="mc_embed_signup">
+                <form action="http://myteamactive.us3.list-manage2.com/subscribe/post?u=fc5b8d3d24c67b6f5fa8c9eb1&amp;id=b7d67f8d68" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                  <div class="mc-field-group">
+                    <label for="mce-EMAIL">Email Address</label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                  </div>
+                  <div class="mc-field-group">
+                    <label for="mce-FNAME">First Name</label>
+                    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+                  </div>
+                  <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                  </div>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;">
+                    <input type="text" name="b_fc5b8d3d24c67b6f5fa8c9eb1_a40008e1df" value="">
+                  </div>
+                  <div class="clear">
+                    <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
+                  </div>
+                </form>
               </div>
-              <div>(You won't be charged until January 12th 2014)</div>
+              <!--End mc_embed_signup-->
+            </div>
+            <div class="goal-cta">
+              <div>(We'll email you first when sign up is available and we'll even include a special pre-sale list discount)</div>
             </div>
           </div>
         </div>
@@ -30,7 +53,7 @@ include('inc/nav.php'); ?>
           <h4 class="program-page">Summary</h4>
           <p class="program-page">Your personalised 3 month course will help you lose weight, change unhealthy behaviours and set you on a path toward a lifetime of healthy living.</p>
           <h4 class="program-page">Who is it for?</h4>
-          <p class="program-page">This course is designed for overweight men and women.</p>
+          <p class="program-page">This course is designed for men and women.</p>
           <h4 class="program-page">Requirements</h4>
           <p class="program-page">Gym access is not required for this program.</p>
           <h4 class="program-page">What is included?</h4>
