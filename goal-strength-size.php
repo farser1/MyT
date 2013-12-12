@@ -1,10 +1,8 @@
 <?php 
 $pageTitle="Size and Strength course";
 $pageDesc="The MyTeam coached size and strength program"; 
-$section="presale";
 include('inc/head.php');
 ?>
-<body>
   <?php 
 include('inc/nav.php'); ?>
   <div class="w-container program-page" id="choose-your-goal">

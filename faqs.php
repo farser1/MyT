@@ -2,7 +2,6 @@
 $pageTitle="FAQs";
 $pageDesc="All the frequently asked questions about MyTeam."; 
 include('inc/head.php'); ?>
-<body>
   <?php 
 include('inc/nav.php'); ?>
   <div class="w-container program-page">

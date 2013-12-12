@@ -2,7 +2,6 @@
 $pageTitle="Weight loss course";
 $pageDesc="The MyTeam coached weight loss program"; 
 include('inc/head.php'); ?>
-<body>
   <?php 
 include('inc/nav.php'); ?>
   <div class="w-container program-page" id="choose-your-goal">

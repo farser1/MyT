@@ -2,7 +2,6 @@
 $pageTitle="Privacy policy";
 $pageDesc="The myteamactive.com privacy policy outlining what data we collect from users and how we protect it."; 
 include('inc/head.php'); ?>
-<body>
   <?php 
 include('inc/nav.php'); ?>
   <div class="w-container program-page">

@@ -2,7 +2,6 @@
 $pageTitle="Get toned course";
 $pageDesc="The MyTeam coached Get Toned program"; 
 include('inc/head.php'); ?>
-<body>
   <?php 
 include('inc/nav.php'); ?>
   
